@@ -34,5 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srajal-jain&show_icons=true&locale=en" alt="srajal-jain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srajal-jain&" alt="srajal-jain" /></p>
-
-<img src="https://raw.githubusercontent.com/srajal-jain/srajal-jain/output/snake.svg" alt="Snake animation" />
